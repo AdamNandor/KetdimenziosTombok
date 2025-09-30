@@ -12,7 +12,7 @@ namespace KetdimenziosTombok
         {
             /*
             //ha az elem egyetlen sorszámmal azonosítható a tömbben, akkor az egydimenziós tömb (tulajdonképp elemek egyszerű sora)
-            // ha az azonosytáshoz két indeet használunk, akkor kétdimenziós a tömb (olyan, mint egy táblázat)
+            // ha az azonosításhoz két indexet használunk, akkor kétdimenziós a tömb (olyan, mint egy táblázat)
             int[,] tablazat = new int[2, 3];
             //adjuk meg egyesével az elemeket
             tablazat[0, 0] = 1;
